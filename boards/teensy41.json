@@ -30,7 +30,9 @@
     "protocols": [
       "teensy-cli",
       "teensy-gui",
-      "jlink"
+      "jlink",
+	  "blackmagic",
+	  "blackmagic-jtag"
     ]
   },
   "url": "https://www.pjrc.com/store/teensy41.html",
